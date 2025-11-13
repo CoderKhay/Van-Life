@@ -1,6 +1,5 @@
 import {Link} from "react-router-dom"
 
-
 export default function Home(){
   return(
   <div className="bg-[url(../Assets/img/home-hero.png)] h-[88vh] w-full bg-center">
